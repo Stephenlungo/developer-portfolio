@@ -464,32 +464,12 @@ export const educationData = [
 - [Material Icons](https://material-ui.com/components/material-icons/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
-## Fonts
-- [Poppins](https://fonts.google.com/specimen/Poppins)
-- [Montserrat](https://fonts.google.com/specimen/Montserrat)
-- [Raleway](https://fonts.google.com/specimen/Raleway)
-- [Big Shoulders Text](https://fonts.google.com/specimen/Big+Shoulders+Text)
-- [Bestermind](https://www.dafont.com/bestermind.font)
-- [Roboto](https://fonts.google.com/specimen/Roboto)
+
 
 <br />
 
-# Upcoming Features :construction:
-- Light/Dark theme toggle
-- More illustrations to choose from
-- Achievements and Awards section
-- More fonts to choose from
-
 
 <br /><br />
-
-## Raise an issue for...
-- Found a bug
-- New theme
-- Can't find required skill in Skills section
-- Add new social media profile
-- Add new service
-- Add another section
 
 
 
